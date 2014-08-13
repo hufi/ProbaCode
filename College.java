@@ -17,5 +17,6 @@ public class College {
 	}
 
 //github proba komment
+//commnet 2
 
 }
